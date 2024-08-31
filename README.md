@@ -6,7 +6,7 @@ To access the trained model, please use the Google Drive link provided below:
 
 - 📂 **[Download Trained Model from Google Drive](https://drive.google.com/drive/folders/1DAXbUXL5cI3cbgyXOGxj2MSDD9LPqrkI?usp=drive_link)**
 
-Alternatively, you can find the link in the `Trained_Model_Link.txt` file included in this repository.
+Alternatively, it can find the link in the `Trained_Model_Link.txt` file included in this repository.
 
 ## How to Use
 
@@ -17,6 +17,11 @@ Feel free to explore the repository and utilize the provided resources for your 
 
 ---
 
-If you encounter any issues or have questions, please open an issue or contact me directly.
+## Contact
 
-Thank you for your interest!
+If you encounter any issues or have questions, please open an issue or contact me directly:
+
+- 📞 **Phone**: 01960288769
+- 📧 **Email**: [maksud.sisir@gmail.com](mailto:maksud.sisir@gmail.com)
+
+Thank you.
