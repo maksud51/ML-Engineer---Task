@@ -3,4 +3,4 @@
 
 All files are attached here. However, the trained model could not be uploaded due to size limitations. GitHub does not support files larger than 25MB, and the size of the trained model is 28MB. 
 
-To access the trained model, I have uploaded it to Google Drive. You can find the link to the model in the `Trained_Model_Link.txt` file.
+To access the trained model, I have uploaded it to Google Drive. You can find the link to the model in the `Trained_Model_Link.txt` file or visit this link `https://drive.google.com/drive/folders/1DAXbUXL5cI3cbgyXOGxj2MSDD9LPqrkI?usp=drive_link`.
