@@ -1,7 +1,5 @@
 # Project Files and Model Information
 
-All project files are included in this repository. However, due to GitHub's size limitations, the trained model could not be uploaded directly. GitHub does not support files larger than 25MB, and the size of the trained model is **28MB**.
-
 To access the trained model, please use the Google Drive link provided below:
 
 - 📂 **[Download Trained Model from Google Drive](https://drive.google.com/drive/folders/1DAXbUXL5cI3cbgyXOGxj2MSDD9LPqrkI?usp=drive_link)**
