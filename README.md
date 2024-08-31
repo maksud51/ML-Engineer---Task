@@ -19,7 +19,6 @@ Feel free to explore the repository and utilize the provided resources for your 
 
 If you encounter any issues or have questions, please open an issue or contact me directly:
 
-- 📞 **Phone**: 01960288769
 - 📧 **Email**: [maksud.sisir@gmail.com](mailto:maksud.sisir@gmail.com)
 
 Thank you.
