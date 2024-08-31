@@ -11,7 +11,7 @@ Alternatively, it can find the link in the `Trained_Model_Link.txt` file include
 1. **Download** the model from the link above.
 2. Follow the instructions in the repository to set up and use the model locally.
 
-Feel free to explore the repository and utilize the provided resources for your needs!
+Feel free to explore the repository and utilize the provided resources!
 
 ---
 
